@@ -1,2 +1,3 @@
 Good bye!
 My friend
+line from user1
