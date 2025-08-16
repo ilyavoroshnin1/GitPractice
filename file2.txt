@@ -1,4 +1,1 @@
-Good bye!
-My friend
-line from user1 after merge conflict
-
+line from user1
